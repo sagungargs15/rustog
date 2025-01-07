@@ -1,0 +1,9 @@
+[package]
+name = "streams_simple"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sagun"]
+
+[dependencies]
+futures = "0.3"
+async-std = { version = "1.12", features = ["attributes"] } 
