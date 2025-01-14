@@ -1,0 +1,10 @@
+/Users/sagun/Work/rustog/streams_simple/target/debug/deps/libasync_global_executor-1d61970bd6a3c7d7.rmeta: /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/lib.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/config.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/executor.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/init.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/reactor.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/threading.rs
+
+/Users/sagun/Work/rustog/streams_simple/target/debug/deps/async_global_executor-1d61970bd6a3c7d7.d: /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/lib.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/config.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/executor.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/init.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/reactor.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/threading.rs
+
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/lib.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/config.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/executor.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/init.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/reactor.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.4.1/src/threading.rs:

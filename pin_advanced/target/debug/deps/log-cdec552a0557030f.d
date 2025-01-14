@@ -1,0 +1,13 @@
+/Users/sagun/Work/rustog/pin_advanced/target/debug/deps/liblog-cdec552a0557030f.rmeta: /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/mod.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/error.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/key.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/source.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/value.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/Users/sagun/Work/rustog/pin_advanced/target/debug/deps/log-cdec552a0557030f.d: /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/mod.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/error.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/key.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/source.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/value.rs /Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/mod.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/error.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/key.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/source.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/value.rs:
+/Users/sagun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs:
